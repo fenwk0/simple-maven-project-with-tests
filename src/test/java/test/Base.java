@@ -31,6 +31,7 @@ class Base {
 
     void run() {
         System.out.println("Base.run");
+        System.out.println("Git commit string v 1.0");
 
 //        double r = Math.random();
 //        if (r < 0.1) {
